@@ -1,0 +1,32 @@
+body{
+    font-family: 'Rubik', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+.colr{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width:50% ;
+    padding: 4%;
+}
+.half-width img{
+    width:100% ;
+}
+.link-batton{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+   padding:10px 40px;
+   border-radius:7px;
+   color: white;
+   border-radius: 5px;
+} 
+.top-banner{
+    background-image: url( img/developer-portfolio/top-banner.png);
+    background-repeat: no-repeat;
+}
